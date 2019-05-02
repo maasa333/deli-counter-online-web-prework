@@ -23,9 +23,3 @@ def now_serving(deli)
     deli.shift
   end
 end
-
-<<<<<<< HEAD
-#resubmitting
-=======
-#resubmitting
->>>>>>> 6d2cb067eee38c8033ac438c1f3a096e4af1148e
